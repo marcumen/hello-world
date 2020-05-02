@@ -1,2 +1,2 @@
 # hello-world
-This is my first test on github
+This is the second version of the hello world code
